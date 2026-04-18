@@ -144,7 +144,7 @@ Hoje atuo na **Caixa Econômica Federal** (via Global Hitss) administrando ambie
 
 <p align="center">
   <!-- TODO: trocar SEU_USUARIO_GITHUB -->
-  <img src="https://streak-stats.demolab.com?user=SEU_USUARIO_GITHUB&theme=tokyonight&hide_border=false" alt="Streak" width="500"/>
+  <img src="https://streak-stats.demolab.com?user=LucasNovaisXimenes&theme=tokyonight&hide_border=false" alt="Streak" width="500"/>
 </p>
 
 ---
