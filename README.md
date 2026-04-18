@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/images/banner.svg" alt="Lucas Ximenes - DevOps & Cloud" />
+</p>
+
 <h1 align="center">Olá, eu sou o Lucas Ximenes 👋</h1>
 <h3 align="center">Analista de Infraestrutura • DevOps • Cloud</h3>
 

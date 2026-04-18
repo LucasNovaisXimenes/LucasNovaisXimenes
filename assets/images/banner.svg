@@ -1,0 +1,121 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 320" width="1280" height="320" role="img" aria-label="Lucas Ximenes - Analista de Infraestrutura, DevOps e Cloud">
+  <defs>
+    <!-- Gradiente de fundo: roxo profundo para azul (vibe tokyonight/dracula) -->
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1a1b26"/>
+      <stop offset="50%" stop-color="#24283b"/>
+      <stop offset="100%" stop-color="#0f3460"/>
+    </linearGradient>
+
+    <!-- Gradiente do nome -->
+    <linearGradient id="nameGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7aa2f7"/>
+      <stop offset="50%" stop-color="#bb9af7"/>
+      <stop offset="100%" stop-color="#f7768e"/>
+    </linearGradient>
+
+    <!-- Padrão de grid sutil ao fundo -->
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#7aa2f7" stroke-opacity="0.06" stroke-width="1"/>
+    </pattern>
+
+    <!-- Glow para o terminal -->
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Fundo -->
+  <rect width="1280" height="320" fill="url(#bg)"/>
+  <rect width="1280" height="320" fill="url(#grid)"/>
+
+  <!-- Detalhes decorativos: círculos orbitando -->
+  <circle cx="1100" cy="80" r="3" fill="#9ece6a" opacity="0.6"/>
+  <circle cx="1180" cy="120" r="2" fill="#7dcfff" opacity="0.7"/>
+  <circle cx="60" cy="240" r="2" fill="#bb9af7" opacity="0.6"/>
+  <circle cx="120" cy="60" r="2" fill="#f7768e" opacity="0.5"/>
+
+  <!-- LADO ESQUERDO: Nome + cargo + stack -->
+  <g transform="translate(70, 90)">
+    <!-- Saudação -->
+    <text font-family="'Fira Code', 'Courier New', monospace" font-size="18" fill="#9ece6a">
+      <tspan x="0" y="0">$ whoami</tspan>
+    </text>
+
+    <!-- Nome -->
+    <text font-family="'Segoe UI', system-ui, sans-serif" font-size="58" font-weight="800" fill="url(#nameGrad)">
+      <tspan x="0" y="55">Lucas Ximenes</tspan>
+    </text>
+
+    <!-- Cargo -->
+    <text font-family="'Segoe UI', system-ui, sans-serif" font-size="22" font-weight="500" fill="#c0caf5">
+      <tspan x="0" y="95">Analista de Infraestrutura</tspan>
+      <tspan fill="#7aa2f7"> • </tspan>
+      <tspan>DevOps</tspan>
+      <tspan fill="#7aa2f7"> • </tspan>
+      <tspan>Cloud</tspan>
+    </text>
+
+    <!-- Tags de stack -->
+    <g transform="translate(0, 130)" font-family="'Fira Code', 'Courier New', monospace" font-size="13" font-weight="600">
+      <!-- Azure -->
+      <rect x="0" y="0" width="70" height="26" rx="13" fill="#0089D6"/>
+      <text x="35" y="17" text-anchor="middle" fill="#ffffff">Azure</text>
+      <!-- AWS -->
+      <rect x="80" y="0" width="60" height="26" rx="13" fill="#FF9900"/>
+      <text x="110" y="17" text-anchor="middle" fill="#1a1b26">AWS</text>
+      <!-- Kubernetes -->
+      <rect x="150" y="0" width="110" height="26" rx="13" fill="#326ce5"/>
+      <text x="205" y="17" text-anchor="middle" fill="#ffffff">Kubernetes</text>
+      <!-- OpenShift -->
+      <rect x="270" y="0" width="90" height="26" rx="13" fill="#EE0000"/>
+      <text x="315" y="17" text-anchor="middle" fill="#ffffff">OpenShift</text>
+      <!-- Terraform -->
+      <rect x="370" y="0" width="90" height="26" rx="13" fill="#5835CC"/>
+      <text x="415" y="17" text-anchor="middle" fill="#ffffff">Terraform</text>
+    </g>
+  </g>
+
+  <!-- LADO DIREITO: janela de terminal -->
+  <g transform="translate(820, 80)" filter="url(#glow)">
+    <!-- Janela -->
+    <rect x="0" y="0" width="400" height="180" rx="10" fill="#1a1b26" stroke="#414868" stroke-width="1.5"/>
+
+    <!-- Barra superior -->
+    <rect x="0" y="0" width="400" height="28" rx="10" fill="#24283b"/>
+    <rect x="0" y="18" width="400" height="10" fill="#24283b"/>
+
+    <!-- Botões mac -->
+    <circle cx="18" cy="14" r="5" fill="#f7768e"/>
+    <circle cx="36" cy="14" r="5" fill="#e0af68"/>
+    <circle cx="54" cy="14" r="5" fill="#9ece6a"/>
+
+    <!-- Título da janela -->
+    <text x="200" y="18" text-anchor="middle" font-family="'Fira Code', monospace" font-size="11" fill="#565f89">lucas@devops:~</text>
+
+    <!-- Conteúdo do terminal -->
+    <g font-family="'Fira Code', 'Courier New', monospace" font-size="13">
+      <text x="16" y="55">
+        <tspan fill="#9ece6a">➜</tspan>
+        <tspan fill="#7dcfff" dx="6">~</tspan>
+        <tspan fill="#c0caf5" dx="6">cat skills.txt</tspan>
+      </text>
+      <text x="16" y="80" fill="#a9b1d6">› Troubleshooting em produção</text>
+      <text x="16" y="100" fill="#a9b1d6">› Observabilidade &amp; RCA</text>
+      <text x="16" y="120" fill="#a9b1d6">› CI/CD &amp; GitOps (ArgoCD)</text>
+      <text x="16" y="140" fill="#a9b1d6">› Containers em escala</text>
+      <text x="16" y="165">
+        <tspan fill="#9ece6a">➜</tspan>
+        <tspan fill="#7dcfff" dx="6">~</tspan>
+        <tspan fill="#c0caf5" dx="6">_</tspan>
+      </text>
+    </g>
+  </g>
+
+  <!-- Linha decorativa inferior -->
+  <line x1="0" y1="319" x2="1280" y2="319" stroke="#7aa2f7" stroke-width="2" opacity="0.4"/>
+</svg>
