@@ -2,7 +2,6 @@
   <img src="assets/images/banner.svg" alt="Lucas Ximenes - DevOps & Cloud" />
 </p>
 
-<h1 align="center">Olá, eu sou o Lucas Ximenes 👋</h1>
 <h3 align="center">Analista de Infraestrutura • DevOps • Cloud</h3>
 
 <p align="center">
@@ -13,7 +12,7 @@
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
   <!-- TODO: trocar SEU_USUARIO_GITHUB pelo seu @ real -->
-  <a href="https://github.com/SEU_USUARIO_GITHUB" target="_blank">
+  <a href="https://github.com/LucasNovaisXimenes" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" />
   </a>
 </p>
@@ -138,9 +137,9 @@ Hoje atuo na **Caixa Econômica Federal** (via Global Hitss) administrando ambie
 
 <p align="center">
   <!-- TODO: trocar SEU_USUARIO_GITHUB nas duas linhas abaixo -->
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=LucasNovaisXimenes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas" width="400"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SEU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&locale=pt-br&layout=compact" alt="Linguagens" width="320"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasNovaisXimenes&show_icons=true&theme=tokyonight&locale=pt-br&layout=compact" alt="Linguagens" width="320"/>
 </p>
 
 <p align="center">
