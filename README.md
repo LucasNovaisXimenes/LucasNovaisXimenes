@@ -116,6 +116,13 @@ Hoje atuo na **Caixa Econômica Federal** (via Global Hitss) administrando ambie
 ---
 
 <!--START_SECTION:badges-->
+<a href="https://www.credly.com/badges/2dcc5d0d-cbbb-40b3-acbb-a96660a6a6df" title="AWS Certified Cloud Practitioner"><img src="https://images.credly.com/size/80x80/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/42197e8b-dd4b-4fea-a788-a5c32b921e83" title="AWS Educate Getting Started with Compute - Training Badge"><img src="https://images.credly.com/size/80x80/images/7b08cc0e-064b-407d-b70e-323509c3e474/blob" alt="AWS Educate Getting Started with Compute - Training Badge" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/78e415a6-c5db-4b18-9377-1569aa2ae97d" title="AWS Educate Getting Started with Storage - Training Badge"><img src="https://images.credly.com/size/80x80/images/3b1b42e6-dfc2-492b-90df-8058096cb93d/blob" alt="AWS Educate Getting Started with Storage - Training Badge" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/14410c81-acc9-4f29-b0f6-3257c2def20e" title="AWS Educate Introduction to Cloud 101 - Training Badge"><img src="https://images.credly.com/size/80x80/images/e51a8579-188d-4363-8ed1-12ad164ef57b/blob" alt="AWS Educate Introduction to Cloud 101 - Training Badge" width="80" height="80"></a>
+<a href="https://www.credly.com/users/lucas-ximenes.29ddd333/badges#credly/badges" title="Microsoft Certified: Azure Administrator Associate"><img src="https://images.credly.com/size/80x80/images/e935dfdc-d710-403c-94c7-381c81cc5805/converted20260420-32-iz3x71.png" alt="Microsoft Certified: Azure Administrator Associate" width="80" height="80"></a>
+<a href="https://www.credly.com/users/lucas-ximenes.29ddd333/badges#credly/badges" title="Oracle Fusion AI Agent Studio Certified Foundations Associate - Rel 1"><img src="https://images.credly.com/size/80x80/images/9f7d66a8-0a0d-4f6e-82b0-d589043866cf/OFAASOFA_cached_image_20260420-32-l9yc0r.png" alt="Oracle Fusion AI Agent Studio Certified Foundations Associate - Rel 1" width="80" height="80"></a>
+<a href="https://www.credly.com/users/lucas-ximenes.29ddd333/badges#credly/badges" title="Oracle Cloud Infrastructure 2025 Certified Foundations Associate"><img src="https://images.credly.com/size/80x80/images/a46e1468-ec62-4441-bb61-6aef6e46953f/OCI25FNDCFAV1_cached_image_20260420-30-1josrs.png" alt="Oracle Cloud Infrastructure 2025 Certified Foundations Associate" width="80" height="80"></a>
 <!--END_SECTION:badges-->
 
 ## 🏅 Certificações
