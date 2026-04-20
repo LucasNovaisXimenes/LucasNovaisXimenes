@@ -115,6 +115,9 @@ Hoje atuo na **Caixa Econômica Federal** (via Global Hitss) administrando ambie
 
 ---
 
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
+
 ## 🏅 Certificações
 
 <p>
